@@ -1,7 +1,7 @@
 {
-  "name": "lofi-marz.github.io",
+  "name": "react-template",
   "version": "0.1.0",
-  "homepage": "lofi-marz.github.io",
+  "homepage": "react-template",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
